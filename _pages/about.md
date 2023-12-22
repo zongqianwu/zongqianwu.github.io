@@ -39,7 +39,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
 [**Project**](https://github.com/zongqianwu/AMMPL) 
-- This paper enhances generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
+- This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
 </div>
 </div>
 
