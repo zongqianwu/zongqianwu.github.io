@@ -35,7 +35,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) [**Project**](https://github.com/zongqianwu/AMMPL) 
+[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) | &nbsp; [**Code**](https://github.com/zongqianwu/AMMPL) 
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
