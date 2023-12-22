@@ -39,10 +39,26 @@ My research interest includes few-shot learning, prompt learning and graph neura
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
-
 - This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/KD-FSNC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-training based Few-shot Node Classification by Knowledge Distillation](https://arxiv.org/pdf/2312.00823.pdf) 🍉&nbsp; [**Code**](https://github.com/zongqianwu/KD-FSNC) 
+
+**Zongqian Wu**, Yujie Mo, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
+
+- This paper introduces a novel self-training FSNC method that addresses the limitations of existing approaches, leveraging representation and pseudo-label distillation techniques to enhance the utilization of base set information and mitigate the impact of low-quality pseudo-label.
+</div>
+</div>
+
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
