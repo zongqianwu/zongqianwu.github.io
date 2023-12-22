@@ -81,7 +81,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 
 - [Multiplex Graph Representation Learning via Common and Private Information Mining](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d88krP8AAAAJ&sortby=pubdate&citation_for_view=d88krP8AAAAJ:qjMakFHDy7sC), Yujie Mo, **Zongqian Wu**, Yuhuan Chen, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu, **AAAI 2023**
 
-- [Multi-scale Graph Classification with Shared Graph Neural Network](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d88krP8AAAAJ&sortby=pubdate&citation_for_view=d88krP8AAAAJ:u-x6o8ySG0sC), Peng Zhou, **Zongqian Wu**, Guoqiu Wen, Kun Tang, Junbo Ma, **World Wide Web**
+- [Multi-scale Graph Classification with Shared Graph Neural Network](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d88krP8AAAAJ&sortby=pubdate&citation_for_view=d88krP8AAAAJ:u-x6o8ySG0sC), Peng Zhou, **Zongqian Wu**, Guoqiu Wen, Kun Tang, Junbo Ma, **WWWJ**
 
 - [Mtgcn: A Multi-task Approach for Node Classification and Link Prediction in Graph Data](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=d88krP8AAAAJ&sortby=pubdate&citation_for_view=d88krP8AAAAJ:9yKSN-GCB0IC), **Zongqian Wu**, Mengmeng Zhan, Haiqi Zhang, Qimin Luo, Kun Tang, **Information Processing & Management**
 
