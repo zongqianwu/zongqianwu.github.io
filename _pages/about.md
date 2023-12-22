@@ -35,11 +35,11 @@ My research interest includes few-shot learning, prompt learning and graph neura
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf)
+[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) [**Project**](https://github.com/zongqianwu/AMMPL) 
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
-[**Project**](https://github.com/zongqianwu/AMMPL) 
+
 - This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
 </div>
 </div>
@@ -47,18 +47,18 @@ My research interest includes few-shot learning, prompt learning and graph neura
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.06* Outstanding graduate of Guangxi Normal University. 
-- *2022.09* National scholarship.
-- *2022.09* Guangxi Normal University academic star scholarship. 
+- *2023.06:* Outstanding graduate of Guangxi Normal University. 
+- *2022.09:* National scholarship.
+- *2022.09:* Guangxi Normal University academic star scholarship. 
 
 
 # 📖 Educations
-- *2023.09 - present*, Computer Science, University of Electronic Science and Technology of China. 
-- *2020.09 - 2023.06*, Software Engineering, Guangxi Normal University.
-- *2016.09 - 2020.06*, Applied Statistics, Yulin Normal University. 
+- *2023.09 - present:* Computer Science, University of Electronic Science and Technology of China. 
+- *2020.09 - 2023.06:* Software Engineering, Guangxi Normal University.
+- *2016.09 - 2020.06:* Applied Statistics, Yulin Normal University. 
 
 # 💬 Invited Talks
-- *2022.10*, Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen China. 
+- *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen China. 
 
 # 🎯 Conference PC Members
 - ACM Multimedia 2023
