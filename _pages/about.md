@@ -48,7 +48,9 @@ My research interest includes few-shot learning, prompt learning and graph neura
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/KD-FSNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-training based Few-shot Node Classification by Knowledge Distillation](https://arxiv.org/pdf/2312.00823.pdf) 🍉&nbsp; [**Code**](https://github.com/zongqianwu/KD-FSNC) 
+[Self-training based Few-shot Node Classification by Knowledge Distillation](https://arxiv.org/pdf/2312.00823.pdf) 
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/KD-FSNC) 
 
 **Zongqian Wu**, Yujie Mo, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
