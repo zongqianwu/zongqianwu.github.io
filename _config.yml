@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zongqian Wu"
+description              : "Homepage of Zongqian Wu. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zongqian Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "Computer science Ph.D candidate of University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
