@@ -67,7 +67,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 # 🎖 Honors and Awards
 - *2023.06:* Outstanding graduate of Guangxi Normal University. 
 - *2022.09:* National scholarship.
-- *2022.09:* Guangxi Normal University academic star scholarship. 
+- *2022.09:* Academic star scholarship. 
 
 
 # 📖 Educations
