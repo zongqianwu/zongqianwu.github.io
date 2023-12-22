@@ -92,7 +92,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
   
 
 # 📖 Educations
-- *2023.09 - Present:* UESTC <img src="images/UESTC.png" alt="11" style="width: 50px; height: 50px;" />. Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=krryaDkAAAAJ"> Prof.Heng Tao Shen</a>. 
+- *2023.09 - Present:* UESTC <img src="images/UESTC.png" alt="11" style="width: 20px; height: 20px;" />. Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=krryaDkAAAAJ"> Prof.Heng Tao Shen</a>. 
 - *2020.09 - 2023.06:* Guangxi Normal University. Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=heE6vKAAAAAJ"> Prof.Shichao Zhang</a>. 
 - *2016.09 - 2020.06:* Yulin Normal University, Applied Statistics. 
 
