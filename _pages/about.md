@@ -97,7 +97,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 - *2016.09 - 2020.06:* Yulin Normal University, Applied Statistics. 
 
 # 💬 Invited Talks
-- *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen China. 
+- *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen, China. 
 
 # 🌝 Conference PC Members
 - AAAI 2024
