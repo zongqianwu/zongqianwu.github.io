@@ -47,11 +47,13 @@ My research interest includes few-shot learning, prompt learning and graph neura
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Outstanding graduate of Guangxi Normal University. 
+- *2022.09* National scholarship.
+- *2022.09* Guangxi Normal University academic star scholarship. 
+
 
 # 📖 Educations
-- *2023.09 - now*, Computer Science, University of Electronic Science and Technology of China. 
+- *2023.09 - present*, Computer Science, University of Electronic Science and Technology of China. 
 - *2020.09 - 2023.06*, Software Engineering, Guangxi Normal University.
 - *2016.09 - 2020.06*, Applied Statistics, Yulin Normal University. 
 
