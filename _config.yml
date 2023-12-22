@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zongqian Wu"
-description              : "Homepage of Zongqian Wu. "
+description              : "Hello whimsical adventurer! You've just stepped into more than just my homepage; you've entered a realm of whimsical ideas!"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zongqian Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Computer science Ph.D candidate of University of Electronic Science and Technology of China"
+  bio              : "Computer science Ph.D candidate of UESTC"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
