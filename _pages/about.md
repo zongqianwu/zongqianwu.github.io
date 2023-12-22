@@ -58,8 +58,8 @@ My research interest includes few-shot learning, prompt learning and graph neura
 - *2016.09 - 2020.06*, Applied Statistics, Yulin Normal University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.10*, Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen China. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎯 Conference PC Members
+- ACM Multimedia 2023
+- AAAI 2024
