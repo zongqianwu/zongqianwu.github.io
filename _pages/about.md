@@ -19,8 +19,8 @@ redirect_from:
 
 I am a Computer Science Ph.D candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
 
-My research interest includes few-shot learning, prompt learning and graph neural network. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia.</a>). 
-
+My research interest includes <span style="color: #00f;">few-shot learning, prompt learning,vision-language models and graph representation learning</span>
+. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia.</a>). 
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2024!
