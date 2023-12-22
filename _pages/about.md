@@ -38,7 +38,7 @@ My research interest includes few-shot learning, prompt learning and graph neura
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
-[**Project**](https://github.com/zongqianwu/AMMPL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/zongqianwu/AMMPL) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
