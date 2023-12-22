@@ -19,11 +19,7 @@ redirect_from:
 
 I am a Computer Science Ph.D candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
 
-My research interest includes few-shot learning, prompt learning and graph neural network. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=d88krP8AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=d88krP8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fzongqianwu%2Fzongqianwu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). <span class='show_paper_citations' data='d88krP8AAAAJ:ALROH1vI_8AC'></span>
-
-
-
-
+My research interest includes few-shot learning, prompt learning and graph neural network. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia.</a>). 
 
 
 # 🔥 News
@@ -40,7 +36,9 @@ My research interest includes few-shot learning, prompt learning and graph neura
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) 🍉&nbsp; [**Code**](https://github.com/zongqianwu/AMMPL) 
+[Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) 
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/AMMPL) 
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
 
