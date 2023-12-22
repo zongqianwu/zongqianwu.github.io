@@ -24,10 +24,11 @@ My research interest includes few-shot learning, prompt learning and graph neura
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2024.
-- *2023.09*: &nbsp;🎉🎉 Invited to serve as AAAI 2024 PC member. 
+- *2023.09*: &nbsp;⛄⛄ Invited to serve as AAAI 2024 PC member.
+- *2023.09*: &nbsp;😎😎 I am going to UESTC in Chengdu to pursue a doctoral degree.
 - *2023.08*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2023.
-- *2023.06*: &nbsp;🎉🎉 Defend my master's dissertation.
-- *2023.06*: &nbsp;🎉🎉 Invited to serve as ACM Multimedia 2023 PC member.
+- *2023.06*: &nbsp;😎😎 Defend my master's dissertation.
+- *2023.06*: &nbsp;⛄⛄ Invited to serve as ACM Multimedia 2023 PC member.
 - *2023.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2023.
 
 # 📝 Publications 
