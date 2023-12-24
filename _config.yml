@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zongqian Wu"
+title                    : "Zongqian Wu (吴宗谦)"
 description              : "Hi! You've just stepped into more than just my homepage; you've entered a realm of whimsical ideas! Let's do more interesting research together~ 😁😁"
 repository               : "zongqianwu/zongqianwu.github.io"
 google_scholar_stats_use_cdn : true
