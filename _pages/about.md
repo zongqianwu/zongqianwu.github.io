@@ -21,6 +21,8 @@ I am a Computer Science Ph.D candidate at University of Electronic Science and T
 
 My research interest includes <span style="color: #00f;">few-shot learning, prompt learning, vision-language models and graph representation learning</span>. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia. 
 
+If you are interested in me, please contact wkzongqianwu@gmail.com.
+
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2024!
 - *2023.09*: &nbsp;⛄⛄ Invited to serve as AAAI 2024 PC member.
