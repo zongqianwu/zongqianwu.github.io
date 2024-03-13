@@ -103,7 +103,9 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 # 💬 Invited Talks
 - *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen, China. 
 
-# 🌝 Conference PC Members
+# 🌝 Reviewer
 - AAAI 2024
-- ACM Multimedia 2023
+- IJCAI 2024
+- ACM Multimedia 2023, 2024
+- IEEE TRANSACTIONS ON IMAGE PROCESSING
 
