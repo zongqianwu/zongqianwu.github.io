@@ -107,5 +107,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - AAAI 2024
 - IJCAI 2024
 - ACM Multimedia 2023, 2024
-- IEEE TRANSACTIONS ON IMAGE PROCESSING
+- Neurocomputing
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Knowledge and Data Engineering
 
