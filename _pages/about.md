@@ -107,8 +107,10 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 # 🌝 Reviewer
 - AAAI 2024
 - IJCAI 2024
+- NeurIPS 2024
 - ACM Multimedia 2023, 2024
 - Neurocomputing
+- Neural Processing Letters
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Knowledge and Data Engineering
 
