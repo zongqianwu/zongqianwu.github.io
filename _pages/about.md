@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Ph.D candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
+I am a Computer Science PhD candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
 
 My research interest includes <span style="color: #00f;">few-shot learning, prompt learning, vision-language models and graph representation learning</span>. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia. 
 
@@ -97,7 +97,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
   
 
 # 📖 Educations
-- *2024.09 - 2025.09 (**Visiting PhD**):* SUTD <img src="images/SUTD.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=KomQOFkAAAAJ"> Prof.Lei Feng</a>
+- *2024.09 - 2025.09 (**Visiting PhD**):* SUTD <img src="images/SUTD.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=KomQOFkAAAAJ"> Prof.Lei Feng</a>.
 - *2023.09 - Present (**PhD**):* UESTC <img src="images/UESTC.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=krryaDkAAAAJ"> Prof.Heng Tao Shen</a>. 
 - *2020.09 - 2023.06 (**Master**):* Guangxi Normal University <img src="images/GXNU.png" alt="11" style="width: 30px; height: 30px;" />, Guiding Instructor: <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>, Team Instructors: <a href="https://scholar.google.com/citations?hl=zh-CN&user=heE6vKAAAAAJ"> Prof.Shichao Zhang</a>. 
 - *2016.09 - 2020.06 (**Bachelor**):* Yulin Normal University <img src="images/YLNU.png" alt="11" style="width: 30px; height: 30px;" />, Applied Statistics. 
