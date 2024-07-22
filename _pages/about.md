@@ -24,24 +24,25 @@ My research interest includes <span style="color: #00f;">few-shot learning, prom
 If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2024!
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by KBS!
+- *2024.05*: &nbsp;⛄⛄ Invited to serve as NeurIPS 2024 PC member.
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2024!
 - *2023.09*: &nbsp;⛄⛄ Invited to serve as AAAI 2024 PC member.
 - *2023.09*: &nbsp;⛄⛄ I am going to UESTC in Chengdu to pursue a doctoral degree.
-- *2023.08*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2023!
 - *2023.06*: &nbsp;⛄⛄ Defend my master's dissertation.
-- *2023.06*: &nbsp;⛄⛄ Invited to serve as ACM Multimedia 2023 PC member.
-- *2023.04*: &nbsp;🎉🎉 One paper accepted by IJCAI 2023!
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) 
 
 🍉&nbsp; [**Code**](https://github.com/zongqianwu/AMMPL) 
 
-**Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Jialie Shen, Ping Hu, Xiaofeng Zhu
+**Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Ping Hu, Xiaofeng Zhu
 
 - This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
 </div>
