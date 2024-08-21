@@ -24,6 +24,7 @@ My research interest includes <span style="color: #00f;">few-shot learning, prom
 If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 # 🔥 News
+- *2024.09*: &nbsp;⛄⛄ I will be going to SUTD in Singapore for a visiting PhD program.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by KBS!
 - *2024.05*: &nbsp;⛄⛄ Invited to serve as NeurIPS 2024 PC member.
@@ -114,4 +115,5 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - Neural Processing Letters
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Circuits and Systems for Video Technology
 
