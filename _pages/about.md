@@ -107,6 +107,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen, China. 
 
 # 🌝 Reviewer
+- ICLR 2025
 - NeurIPS 2024
 - AAAI 2024, 2025
 - IJCAI 2024
