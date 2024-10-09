@@ -111,9 +111,12 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - NeurIPS 2024
 - AAAI 2024, 2025
 - IJCAI 2024
+- AISTATS 2025
 - ACM Multimedia 2023, 2024
 - Neurocomputing
+- Neural Networks
 - Neural Processing Letters
+- The Journal of Supercomputing
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Circuits and Systems for Video Technology
