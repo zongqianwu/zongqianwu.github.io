@@ -81,9 +81,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: 75px; // 保持父级宽度定义
+  overflow: visible; // 确保图片不会被父容器裁剪
 
   @include breakpoint($large) {
     display: block;
@@ -92,19 +91,18 @@
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
-
-    // Remove the border-radius to keep the original shape
-    border-radius: 0;
+    max-width: 100%; // 保持响应式显示
+    height: auto; // 确保图片比例正常
+    border-radius: 0; // 移除圆角
+    clip-path: none; // 确保不会被裁剪为椭圆
 
     @include breakpoint($large) {
-      // Optionally remove padding and border
-      padding: 0;
-      border: none;
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
+
 
 
 .author__content {
