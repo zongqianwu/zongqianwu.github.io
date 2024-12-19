@@ -36,9 +36,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - *2024.09*: &nbsp;⛄⛄ I will be going to SUTD in Singapore for a visiting PhD program.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by KBS!
-- *2024.05*: &nbsp;⛄⛄ Invited to serve as NeurIPS 2024 PC member.
 - *2023.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2024!
-- *2023.09*: &nbsp;⛄⛄ Invited to serve as AAAI 2024 PC member.
 - *2023.09*: &nbsp;⛄⛄ I am going to UESTC in Chengdu to pursue a doctoral degree.
 - *2023.06*: &nbsp;⛄⛄ Defend my master's dissertation.
 
