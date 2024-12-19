@@ -94,14 +94,18 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+
+    // Remove the border-radius to keep the original shape
+    border-radius: 0;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      // Optionally remove padding and border
+      padding: 0;
+      border: none;
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
