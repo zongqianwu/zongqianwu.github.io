@@ -36,12 +36,24 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2312.00823.pdf) 
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
+
+**Zongqian Wu**, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
+
+- Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent capabilities in LLMs. We observe that CoT shares significant similarities with self-training in terms of their learning processes. Motivated by these parallels, this paper explores the underlying relationship between CoT and self-training, demonstrating how insights from self-training can enhance CoT performance.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) 
-
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/AMMPL) 
 
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Ping Hu, Xiaofeng Zhu
 
@@ -56,8 +68,6 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 [Self-training based Few-shot Node Classification by Knowledge Distillation](https://arxiv.org/pdf/2312.00823.pdf) 
 
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/KD-FSNC) 
-
 **Zongqian Wu**, Yujie Mo, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
 - This paper introduces a novel self-training FSNC method that addresses the limitations of existing approaches, leveraging representation and pseudo-label distillation techniques to enhance the utilization of base set information and mitigate the impact of low-quality pseudo-label.
@@ -69,8 +79,6 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 <div class='paper-box-text' markdown="1">
 
 [Information Augmentation for Few-shot Node Classifcation](https://www.ijcai.org/proceedings/2022/0500.pdf) 
-
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/IA-FSNC) 
 
 **Zongqian Wu**, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu
 
@@ -107,6 +115,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen, China. 
 
 # 🌝 Reviewer
+- ICML 2025
 - ICLR 2025
 - NeurIPS 2024
 - AAAI 2024, 2025
