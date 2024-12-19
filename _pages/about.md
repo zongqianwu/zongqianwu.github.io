@@ -39,7 +39,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/st-cot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2312.00823.pdf) 
+[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2412.10827)  
 
 🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
 
@@ -66,7 +66,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/KD-FSNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-training based Few-shot Node Classification by Knowledge Distillation](https://arxiv.org/pdf/2312.00823.pdf) 
+[Self-training based Few-shot Node Classification by Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/29530)
 
 **Zongqian Wu**, Yujie Mo, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
 
