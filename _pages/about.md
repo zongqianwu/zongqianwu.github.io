@@ -102,9 +102,6 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
   
 
 
-# 💬 Invited Talks
-- *2022.10:* Information Augmentation for Few-shot Node Classification, IJCAI 2022 China, Shenzhen, China. 
-
 # 🌝 Reviewer
 - ICML 2025
 - ICLR 2025
