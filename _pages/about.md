@@ -49,7 +49,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](https://arxiv.org/pdf/2502.10858)  
 
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/breadth)
 
 **Zongqian Wu**, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
 
