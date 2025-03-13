@@ -19,7 +19,8 @@ redirect_from:
 
 I am a Computer Science PhD candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
 
-My research interest includes <span style="color: #00f;">few-shot learning, prompt learning, vision-language models and graph representation learning</span>. I have published 5+ papers at the top international AI conferences such as AAAI, IJCAI, ACM Multimedia. 
+My research interest includes <span style="color: #00f;">prompt learning, LLMs, VLMs, and graph representation learning</span>.
+I recently want to work on AI healthcare projects.
 
 If you are interested in me, please contact wkzongqianwu@gmail.com.
 
@@ -51,6 +52,21 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 **Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Ping Hu, Xiaofeng Zhu
 
 - This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/st-cot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2412.10827)  
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
+
+**Zongqian Wu**, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
+
+- Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent capabilities in LLMs. We observe that CoT shares significant similarities with self-training in terms of their learning processes. Motivated by these parallels, this paper explores the underlying relationship between CoT and self-training, demonstrating how insights from self-training can enhance CoT performance.
 </div>
 </div>
 
