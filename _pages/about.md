@@ -20,7 +20,6 @@ redirect_from:
 I am a Computer Science PhD candidate at University of Electronic Science and Technology of China (UESTC). I obtained my master's degree in Software Engineering at Guangxi Normal University (GXNU) in 2023 under the supervision of <a href="https://scholar.google.com/citations?user=-bk1CrcAAAAJ"> Prof.Xiaofeng Zhu</a>. Before that, received my bachelor's degree in Applied Statistics at Yulin Normal University in 2020.
 
 My research interest includes <span style="color: #00f;">prompt learning, LLMs, VLMs, and graph representation learning</span>.
-I recently want to work on AI healthcare projects.
 
 If you are interested in me, please contact wkzongqianwu@gmail.com.
 
@@ -112,7 +111,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 # 🎖 Honors and Awards
 - *2023.06:* Outstanding graduate of Guangxi Normal University. 
-- *2022.09:* National scholarship (Top 1%).
+- *2022.09:* National scholarship.
 - *2022.09:* Academic star scholarship (10 students in the school each year).
   
 
