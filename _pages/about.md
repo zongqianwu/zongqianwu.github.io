@@ -43,35 +43,6 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/Breadth.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](https://arxiv.org/pdf/2502.10858)  
-
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/breadth)
-
-**Zongqian Wu**, Tianyu Li, Baoduo Xu, Jiaying Yang, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
-
-- Chain-of-thought (CoT) reasoning enhances LLMs but struggles with iterative improvement. This paper explores breadth reasoning, which activates relevant knowledge upfront through diverse initial paths. We propose a simple method to improve breadth reasoning, outperforming deep iterative CoT.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/st-cot.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2412.10827)  
-
-🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
-
-**Zongqian Wu**, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
-
-- Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent capabilities in LLMs. We observe that CoT shares significant similarities with self-training in terms of their learning processes. Motivated by these parallels, this paper explores the underlying relationship between CoT and self-training, demonstrating how insights from self-training can enhance CoT performance.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
