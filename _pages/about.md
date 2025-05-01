@@ -33,6 +33,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025!
 - *2024.09*: &nbsp;⛄⛄ I will be going to SUTD in Singapore for a visiting PhD program.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2024!
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by KBS!
@@ -42,6 +43,21 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/st-cot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2412.10827)  
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
+
+**Zongqian Wu**, Baoduo Xu, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu, Lei Feng
+
+- Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent capabilities in LLMs. We observe that CoT shares significant similarities with self-training in terms of their learning processes. Motivated by these parallels, this paper explores the underlying relationship between CoT and self-training, demonstrating how insights from self-training can enhance CoT performance.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/AMMPL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
