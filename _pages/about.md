@@ -110,6 +110,7 @@ If you are interested in me, please contact wkzongqianwu@gmail.com.
 - AAAI 2024, 2025
 - IJCAI 2024, 2025
 - AISTATS 2025
+- ECAI 2025
 - ACM Multimedia 2023, 2024
 - Neurocomputing
 - Neural Networks
