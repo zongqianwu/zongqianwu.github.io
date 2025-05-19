@@ -117,6 +117,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 - ACM Multimedia 2023, 2024
 - Neurocomputing
 - Neural Networks
+- Pattern Recognition
 - Neural Processing Letters
 - The Journal of Supercomputing
 - IEEE Transactions on Image Processing
