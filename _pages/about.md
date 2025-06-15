@@ -36,7 +36,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper accepted by IP&M!
+- *2025.06*: &nbsp;🎉🎉 One paper accepted by IPM!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025!
 - *2024.10*: &nbsp;⛄⛄ I will be going to SUTD in Singapore for a visiting PhD program.
 - *2024.07*: &nbsp;🎉🎉 One paper accepted by ACM Multimedia 2024!
