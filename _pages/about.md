@@ -112,7 +112,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 - ICML 2025
 - ICLR 2025
 - NeurIPS 2024, 2025
-- AAAI 2024, 2025
+- AAAI 2024, 2025, 2026
 - IJCAI 2024, 2025
 - AISTATS 2025
 - ECAI 2025
