@@ -48,6 +48,21 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 # 📝 Publications (partial)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Uniform-TTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating Strategy-Selection Bias in Reasoning for More Effective Test-Time Scaling](https://arxiv.org/pdf/2509.17905)  
+
+🍉&nbsp; [**Code**](https://github.com/zongqianwu/Uniform-TTS)
+
+**Zongqian Wu**, Baoduo Xu, Tianyu Li, Zhu Sun, Xiaofeng Zhu, Lei Feng
+
+- Test-time scaling (TTS) has been shown to improve the performance of large language models (LLMs) by sampling and aggregating diverse reasoning paths. However, existing research has overlooked a critical issue: selection bias of reasoning strategies during scaling. Specifically, when generating reasoning processes, LLMs tend to follow certain strategies while neglecting other valid alternatives, resulting in insufficient exploration of the solution space. To further understand the impact of this bias, we present a theoretical analysis that reveals when it undermines the effectiveness of test-time scaling. Motivated by this theoretical insight, we introduce TTS-Uniform, a framework designed to mitigate the selection bias of reasoning strategies.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/st-cot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
