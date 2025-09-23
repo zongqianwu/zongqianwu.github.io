@@ -48,7 +48,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 # 📝 Publications (partial)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Uniform-TTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/Uniform-TTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mitigating Strategy-Selection Bias in Reasoning for More Effective Test-Time Scaling](https://arxiv.org/pdf/2509.17905)  
