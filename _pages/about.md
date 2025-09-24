@@ -55,7 +55,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 🍉&nbsp; [**Code**](https://github.com/zongqianwu/Uniform-TTS)
 
-**Zongqian Wu**, Baoduo Xu, Tianyu Li, Zhu Sun, Xiaofeng Zhu, Lei Feng
+**Zongqian Wu**, Baoduo Xu, Tianyu Li, Zhu Sun, Xiaofeng Zhu<sup>\*</sup>, Lei Feng<sup>\*</sup>
 
 - Test-time scaling (TTS) has been shown to improve the performance of large language models (LLMs) by sampling and aggregating diverse reasoning paths. However, existing research has overlooked a critical issue: selection bias of reasoning strategies during scaling. Specifically, when generating reasoning processes, LLMs tend to follow certain strategies while neglecting other valid alternatives, resulting in insufficient exploration of the solution space. To further understand the impact of this bias, we present a theoretical analysis that reveals when it undermines the effectiveness of test-time scaling. Motivated by this theoretical insight, we introduce TTS-Uniform, a framework designed to mitigate the selection bias of reasoning strategies.
 </div>
@@ -83,7 +83,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 [Adaptive Multi-Modality Prompt Learning](https://arxiv.org/pdf/2312.00823.pdf) 
 
-**Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Ping Hu, Xiaofeng Zhu
+**Zongqian Wu**, Yujing Liu, Mengmeng Zhan, Ping Hu, Xiaofeng Zhu<sup>\*</sup>
 
 - This paper introduces multi-modality prompt learning to address limitations in current methods, enhancing generalization by considering the impact of meaningless patches in images and simultaneously addressing in-sample and out-of-sample generalization.
 </div>
@@ -95,7 +95,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 [Self-training based Few-shot Node Classification by Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/29530)
 
-**Zongqian Wu**, Yujie Mo, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu
+**Zongqian Wu<sup>†</sup>**, Yujie Mo<sup>†</sup>, Peng Zhou, Shangbo Yuan, Xiaofeng Zhu<sup>\*</sup>
 
 - This paper introduces a novel self-training FSNC method that addresses the limitations of existing approaches, leveraging representation and pseudo-label distillation techniques to enhance the utilization of base set information and mitigate the impact of low-quality pseudo-label.
 </div>
@@ -107,7 +107,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 [Information Augmentation for Few-shot Node Classifcation](https://www.ijcai.org/proceedings/2022/0500.pdf) 
 
-**Zongqian Wu**, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu
+**Zongqian Wu**, Peng Zhou, Guoqiu Wen, Yingying Wan, Junbo Ma, Debo Cheng, Xiaofeng Zhu<sup>\*</sup>
 
 - This paper proposes a new data augmentation method for few-shot node classification on graph data, mitigating issues with time costs and structural exploration. It involves efficient parameter initialization and fine-tuning with support and shot augmentation.
 </div>
