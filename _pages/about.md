@@ -70,7 +70,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 🍉&nbsp; [**Code**](https://github.com/zongqianwu/ST-COT)
 
-**Zongqian Wu†**, Baoduo Xu†, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu*, Lei Feng*
+**Zongqian Wu<sup>†</sup>**, Baoduo Xu<sup>†</sup>, Ruochen Cui, Mengmeng Zhan, Xiaofeng Zhu<sup>\*</sup>, Lei Feng<sup>\*</sup>
 
 - Chain-of-thought (CoT) reasoning has emerged as an effective approach for activating latent capabilities in LLMs. We observe that CoT shares significant similarities with self-training in terms of their learning processes. Motivated by these parallels, this paper explores the underlying relationship between CoT and self-training, demonstrating how insights from self-training can enhance CoT performance.
 </div>
