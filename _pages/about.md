@@ -131,6 +131,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 - IJCAI 2024, 2025
 - AISTATS 2025, 2026
 - ECAI 2025
+- PAKDD 2026
 - ACM Multimedia 2023, 2024
 - Neurocomputing
 - Neural Networks
