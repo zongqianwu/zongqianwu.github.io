@@ -117,6 +117,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 
 # 🎖 Honors and Awards
+- *2025.12:* Northern Automation Control Scholarship
 - *2024.07:* China Scholarship Council (CSC) Scholarship.
 - *2023.06:* Outstanding graduate of Guangxi Normal University. 
 - *2022.09:* National scholarship.
@@ -129,7 +130,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 - ICLR 2025, 2026
 - NeurIPS 2024, 2025
 - AAAI 2024, 2025, 2026
-- IJCAI 2024, 2025
+- IJCAI 2024, 2025, 2026
 - AISTATS 2025, 2026
 - ECAI 2025
 - PAKDD 2026
@@ -139,6 +140,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 - Pattern Recognition
 - Neural Processing Letters
 - The Journal of Supercomputing
+- Expert Systems With Applications
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Circuits and Systems for Video Technology
