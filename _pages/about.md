@@ -117,7 +117,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 
 # 🎖 Honors and Awards
-- *2025.12:* Northern Automation Control Scholarship
+- *2025.12:* Northern Automation Control Scholarship.
 - *2024.07:* China Scholarship Council (CSC) Scholarship.
 - *2023.06:* Outstanding graduate of Guangxi Normal University. 
 - *2022.09:* National scholarship.
