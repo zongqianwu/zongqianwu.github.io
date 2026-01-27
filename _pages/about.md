@@ -126,7 +126,7 @@ My research interest includes prompt learning, LLMs, VLMs, and graph representat
 
 
 # 🌝 Reviewer
-- ICML 2025
+- ICML 2025, 2026
 - ICLR 2025, 2026
 - NeurIPS 2024, 2025
 - AAAI 2024, 2025, 2026
